@@ -480,7 +480,7 @@
             if n % x == 0:
                 sum += x
         return sum == n
-    print(perf(6))
+    print(perf(12))
 
 # EX11.C
 
